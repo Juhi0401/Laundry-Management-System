@@ -1,0 +1,165 @@
+[18-Nov-2021 20:36:22 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jdp3249/public_html/Wdm_Project/connect.php on line 22
+[18-Nov-2021 20:38:54 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jdp3249/public_html/Wdm_Project/connect.php on line 22
+[18-Nov-2021 20:39:18 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jdp3249/public_html/Wdm_Project/connect.php on line 22
+[18-Nov-2021 20:42:14 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jdp3249/public_html/Wdm_Project/connect.php on line 22
+[19-Nov-2021 00:19:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/jdp3249/public_html/Wdm_Project/connect.php on line 11
+[19-Nov-2021 00:20:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/jdp3249/public_html/Wdm_Project/connect.php on line 11
+[19-Nov-2021 00:46:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/jdp3249/public_html/Wdm_Project/connect.php on line 11
+[19-Nov-2021 00:46:55 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/jdp3249/public_html/Wdm_Project/connect.php on line 11
+[19-Nov-2021 00:50:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/jdp3249/public_html/Wdm_Project/connect.php on line 11
+[19-Nov-2021 00:53:27 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'jdp3249_login'@'localhost' (using password: YES) in /home/jdp3249/public_html/Wdm_Project/connect.php on line 11
+[19-Nov-2021 00:55:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::prepared() in /home/jdp3249/public_html/Wdm_Project/connect.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/jdp3249/public_html/Wdm_Project/connect.php on line 15
+[19-Nov-2021 00:58:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::prepared() in /home/jdp3249/public_html/Wdm_Project/connect.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/jdp3249/public_html/Wdm_Project/connect.php on line 15
+[19-Nov-2021 01:00:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::prepared() in /home/jdp3249/public_html/Wdm_Project/connect.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/jdp3249/public_html/Wdm_Project/connect.php on line 15
+[19-Nov-2021 01:33:55 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'jdp3249_abc'@'localhost' (using password: YES) in /home/jdp3249/public_html/Wdm_Project/connect.php on line 15
+[19-Nov-2021 01:34:37 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'jdp3249_abc'@'localhost' (using password: YES) in /home/jdp3249/public_html/Wdm_Project/connect.php on line 15
+[19-Nov-2021 01:35:06 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'jdp3249_abc'@'localhost' (using password: YES) in /home/jdp3249/public_html/Wdm_Project/connect.php on line 15
+[19-Nov-2021 01:36:41 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'jdp3249_abc'@'localhost' (using password: YES) in /home/jdp3249/public_html/Wdm_Project/connect.php on line 15
+[19-Nov-2021 01:36:47 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'jdp3249_abc'@'localhost' (using password: YES) in /home/jdp3249/public_html/Wdm_Project/connect.php on line 15
+[19-Nov-2021 01:37:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'jdp3249_abc'@'localhost' (using password: YES) in /home/jdp3249/public_html/Wdm_Project/connect.php on line 15
+[19-Nov-2021 01:37:30 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'jdp3249_abc'@'localhost' (using password: YES) in /home/jdp3249/public_html/Wdm_Project/connect.php on line 15
+[19-Nov-2021 18:40:36 UTC] PHP Warning:  mysqli::query(): Empty query in /home/jdp3249/public_html/Wdm_Project/feedback.php on line 21
+[22-Nov-2021 04:02:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/axk7791/public_html/LMS-WDM/connection.php on line 6
+[22-Nov-2021 04:03:40 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/axk7791/public_html/LMS-WDM/connection.php on line 6
+[22-Nov-2021 04:04:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/axk7791/public_html/LMS-WDM/login_register.php on line 194
+[22-Nov-2021 04:04:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/axk7791/public_html/LMS-WDM/login_register.php:155) in /home/axk7791/public_html/LMS-WDM/login_register.php on line 232
+[22-Nov-2021 04:05:02 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/axk7791/public_html/LMS-WDM/login_register.php on line 194
+[22-Nov-2021 04:05:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/axk7791/public_html/LMS-WDM/login_register.php:155) in /home/axk7791/public_html/LMS-WDM/login_register.php on line 232
+[22-Nov-2021 04:05:10 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/axk7791/public_html/LMS-WDM/login_register.php on line 194
+[22-Nov-2021 04:05:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/axk7791/public_html/LMS-WDM/login_register.php:155) in /home/axk7791/public_html/LMS-WDM/login_register.php on line 239
+[22-Nov-2021 04:10:56 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home/axk7791/public_html/LMS-WDM/contact.php on line 20
+[22-Nov-2021 04:20:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/axk7791/public_html/LMS-WDM/login_register.php on line 194
+[22-Nov-2021 04:20:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/axk7791/public_html/LMS-WDM/login_register.php:155) in /home/axk7791/public_html/LMS-WDM/login_register.php on line 232
+[22-Nov-2021 04:21:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/axk7791/public_html/LMS-WDM/login_register.php on line 194
+[22-Nov-2021 04:21:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/axk7791/public_html/LMS-WDM/login_register.php:155) in /home/axk7791/public_html/LMS-WDM/login_register.php on line 232
+[22-Nov-2021 04:21:52 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/axk7791/public_html/LMS-WDM/login_register.php on line 194
+[22-Nov-2021 04:21:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/axk7791/public_html/LMS-WDM/login_register.php:155) in /home/axk7791/public_html/LMS-WDM/login_register.php on line 232
+[22-Nov-2021 04:22:31 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/axk7791/public_html/LMS-WDM/login_register.php on line 194
+[22-Nov-2021 04:22:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/axk7791/public_html/LMS-WDM/login_register.php:155) in /home/axk7791/public_html/LMS-WDM/login_register.php on line 232
+[22-Nov-2021 04:23:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/axk7791/public_html/LMS-WDM/login_register.php on line 194
+[22-Nov-2021 04:23:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/axk7791/public_html/LMS-WDM/login_register.php:155) in /home/axk7791/public_html/LMS-WDM/login_register.php on line 232
+[22-Nov-2021 04:23:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/axk7791/public_html/LMS-WDM/login_register.php on line 194
+[22-Nov-2021 04:23:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/axk7791/public_html/LMS-WDM/login_register.php:155) in /home/axk7791/public_html/LMS-WDM/login_register.php on line 232
+[22-Nov-2021 04:24:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/axk7791/public_html/LMS-WDM/login_register.php on line 194
+[22-Nov-2021 04:24:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/axk7791/public_html/LMS-WDM/login_register.php:155) in /home/axk7791/public_html/LMS-WDM/login_register.php on line 232
+[22-Nov-2021 04:25:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/axk7791/public_html/LMS-WDM/login_register.php on line 194
+[22-Nov-2021 04:25:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/axk7791/public_html/LMS-WDM/login_register.php:155) in /home/axk7791/public_html/LMS-WDM/login_register.php on line 232
+[22-Nov-2021 04:25:39 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/axk7791/public_html/LMS-WDM/login_register.php on line 194
+[22-Nov-2021 04:25:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/axk7791/public_html/LMS-WDM/login_register.php:155) in /home/axk7791/public_html/LMS-WDM/login_register.php on line 235
+[22-Nov-2021 04:25:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/axk7791/public_html/LMS-WDM/login_register.php on line 194
+[22-Nov-2021 04:25:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/axk7791/public_html/LMS-WDM/login_register.php on line 194
+[22-Nov-2021 04:25:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/axk7791/public_html/LMS-WDM/login_register.php:155) in /home/axk7791/public_html/LMS-WDM/login_register.php on line 232
+[22-Nov-2021 04:29:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/axk7791/public_html/LMS-WDM/login_register.php on line 194
+[22-Nov-2021 04:29:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/axk7791/public_html/LMS-WDM/login_register.php:155) in /home/axk7791/public_html/LMS-WDM/login_register.php on line 236
+[22-Nov-2021 04:29:29 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/axk7791/public_html/LMS-WDM/login_register.php on line 194
+[22-Nov-2021 04:29:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/axk7791/public_html/LMS-WDM/login_register.php:155) in /home/axk7791/public_html/LMS-WDM/login_register.php on line 232
+[22-Nov-2021 04:33:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/axk7791/public_html/LMS-WDM/login_register.php on line 194
+[22-Nov-2021 04:33:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/axk7791/public_html/LMS-WDM/login_register.php:155) in /home/axk7791/public_html/LMS-WDM/login_register.php on line 232
+[22-Nov-2021 04:35:45 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/axk7791/public_html/LMS-WDM/login_register.php on line 194
+[22-Nov-2021 04:35:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/axk7791/public_html/LMS-WDM/login_register.php:155) in /home/axk7791/public_html/LMS-WDM/login_register.php on line 232
+[22-Nov-2021 04:38:31 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/axk7791/public_html/LMS-WDM/login_register.php on line 194
+[22-Nov-2021 04:38:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/axk7791/public_html/LMS-WDM/login_register.php:155) in /home/axk7791/public_html/LMS-WDM/login_register.php on line 232
+[22-Nov-2021 05:01:04 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/axk7791/public_html/LMS-WDM/login_register.php on line 194
+[22-Nov-2021 05:01:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/axk7791/public_html/LMS-WDM/login_register.php:155) in /home/axk7791/public_html/LMS-WDM/login_register.php on line 232
+[22-Nov-2021 05:01:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/axk7791/public_html/LMS-WDM/login_register.php on line 194
+[22-Nov-2021 05:01:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/axk7791/public_html/LMS-WDM/login_register.php:155) in /home/axk7791/public_html/LMS-WDM/login_register.php on line 232
+[22-Nov-2021 05:01:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/axk7791/public_html/LMS-WDM/login_register.php on line 194
+[22-Nov-2021 05:01:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/axk7791/public_html/LMS-WDM/login_register.php:155) in /home/axk7791/public_html/LMS-WDM/login_register.php on line 232
+[22-Nov-2021 05:13:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/axk7791/public_html/LMS-WDM/login_register.php on line 194
+[22-Nov-2021 05:13:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/axk7791/public_html/LMS-WDM/login_register.php:155) in /home/axk7791/public_html/LMS-WDM/login_register.php on line 232
+[22-Nov-2021 05:16:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/axk7791/public_html/LMS-WDM/login_register.php on line 194
+[22-Nov-2021 05:16:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/axk7791/public_html/LMS-WDM/login_register.php:155) in /home/axk7791/public_html/LMS-WDM/login_register.php on line 232
+[22-Nov-2021 05:18:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/axk7791/public_html/LMS-WDM/admin.php on line 26
+[22-Nov-2021 05:20:27 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/axk7791/public_html/LMS-WDM/admin.php on line 26
+[22-Nov-2021 05:20:27 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/axk7791/public_html/LMS-WDM/header1.php on line 5
+[22-Nov-2021 05:23:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/axk7791/public_html/LMS-WDM/login_register.php on line 194
+[22-Nov-2021 05:23:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/axk7791/public_html/LMS-WDM/login_register.php:155) in /home/axk7791/public_html/LMS-WDM/login_register.php on line 232
+[22-Nov-2021 05:26:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/axk7791/public_html/LMS-WDM/login_register.php on line 194
+[22-Nov-2021 05:26:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/axk7791/public_html/LMS-WDM/login_register.php:155) in /home/axk7791/public_html/LMS-WDM/login_register.php on line 232
+[22-Nov-2021 05:43:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/axk7791/public_html/LMS-WDM/login_register.php:155) in /home/axk7791/public_html/LMS-WDM/login_register.php on line 232
+[22-Nov-2021 05:49:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/axk7791/public_html/LMS-WDM/admin.php on line 26
+[23-Nov-2021 17:43:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/axk7791/public_html/LMS-WDM/user.php on line 41
+[23-Nov-2021 17:43:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/axk7791/public_html/LMS-WDM/header1.php on line 5
+[23-Nov-2021 17:43:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on bool in /home/axk7791/public_html/LMS-WDM/user.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/axk7791/public_html/LMS-WDM/user.php on line 151
+[23-Nov-2021 17:46:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/axk7791/public_html/LMS-WDM/user.php on line 41
+[23-Nov-2021 17:46:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/axk7791/public_html/LMS-WDM/header1.php on line 5
+[23-Nov-2021 17:46:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on bool in /home/axk7791/public_html/LMS-WDM/user.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/axk7791/public_html/LMS-WDM/user.php on line 151
+[23-Nov-2021 17:54:23 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/axk7791/public_html/LMS-WDM/feedback.php on line 13
+[25-Nov-2021 08:00:25 UTC] PHP Parse error:  syntax error, unexpected 'button' (T_STRING), expecting ';' or ',' in /home/axk7791/public_html/LMS-WDM/admin.php on line 142
+[27-Nov-2021 21:42:27 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/axk7791/public_html/LMS-WDM/user.php on line 41
+[27-Nov-2021 21:42:27 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/axk7791/public_html/LMS-WDM/header1.php on line 5
+[27-Nov-2021 21:42:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on bool in /home/axk7791/public_html/LMS-WDM/user.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/axk7791/public_html/LMS-WDM/user.php on line 151
+[27-Nov-2021 21:43:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/axk7791/public_html/LMS-WDM/manager.php on line 25
+[27-Nov-2021 21:43:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/axk7791/public_html/LMS-WDM/header1.php on line 5
+[28-Nov-2021 00:45:52 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/axk7791/public_html/LMS-WDM/feedback.php on line 13
+[28-Nov-2021 00:46:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/axk7791/public_html/LMS-WDM/feedback.php on line 14
+[28-Nov-2021 00:47:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/axk7791/public_html/LMS-WDM/feedback.php on line 14
+[28-Nov-2021 00:47:21 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/axk7791/public_html/LMS-WDM/feedback.php on line 14
+[28-Nov-2021 17:28:18 UTC] PHP Warning:  Use of undefined constant usrrow1 - assumed 'usrrow1' (this will throw an Error in a future version of PHP) in /home/axk7791/public_html/LMS-WDM/admin.php on line 384
+[28-Nov-2021 17:28:18 UTC] PHP Warning:  Illegal string offset 'id' in /home/axk7791/public_html/LMS-WDM/admin.php on line 384
+[28-Nov-2021 17:28:18 UTC] PHP Warning:  Use of undefined constant usrrow1 - assumed 'usrrow1' (this will throw an Error in a future version of PHP) in /home/axk7791/public_html/LMS-WDM/admin.php on line 384
+[28-Nov-2021 17:28:18 UTC] PHP Warning:  Illegal string offset 'id' in /home/axk7791/public_html/LMS-WDM/admin.php on line 384
+[28-Nov-2021 17:28:18 UTC] PHP Warning:  Use of undefined constant usrrow1 - assumed 'usrrow1' (this will throw an Error in a future version of PHP) in /home/axk7791/public_html/LMS-WDM/admin.php on line 384
+[28-Nov-2021 17:28:18 UTC] PHP Warning:  Illegal string offset 'id' in /home/axk7791/public_html/LMS-WDM/admin.php on line 384
+[28-Nov-2021 17:28:18 UTC] PHP Warning:  Use of undefined constant usrrow1 - assumed 'usrrow1' (this will throw an Error in a future version of PHP) in /home/axk7791/public_html/LMS-WDM/admin.php on line 384
+[28-Nov-2021 17:28:18 UTC] PHP Warning:  Illegal string offset 'id' in /home/axk7791/public_html/LMS-WDM/admin.php on line 384
+[28-Nov-2021 19:57:04 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/axk7791/public_html/LMS-WDM/admin.php on line 10
+[28-Nov-2021 19:57:13 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/axk7791/public_html/LMS-WDM/admin.php on line 10
+[28-Nov-2021 19:57:44 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/axk7791/public_html/LMS-WDM/admin.php on line 10
+[28-Nov-2021 19:58:02 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/axk7791/public_html/LMS-WDM/admin.php on line 10
+[28-Nov-2021 19:58:13 UTC] PHP Fatal error:  Cannot redeclare deletephp() (previously declared in /home/axk7791/public_html/LMS-WDM/admin.php:10) in /home/axk7791/public_html/LMS-WDM/admin.php on line 351
+[28-Nov-2021 19:58:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add() in /home/axk7791/public_html/LMS-WDM/admin.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/axk7791/public_html/LMS-WDM/admin.php on line 26
+[28-Nov-2021 19:58:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add() in /home/axk7791/public_html/LMS-WDM/admin.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/axk7791/public_html/LMS-WDM/admin.php on line 26
+[28-Nov-2021 19:59:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add() in /home/axk7791/public_html/LMS-WDM/admin.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/axk7791/public_html/LMS-WDM/admin.php on line 26
+[28-Nov-2021 21:27:16 UTC] PHP Parse error:  syntax error, unexpected 'deletephp' (T_STRING), expecting ';' or ',' in /home/axk7791/public_html/LMS-WDM/admin.php on line 352
+[28-Nov-2021 21:27:18 UTC] PHP Parse error:  syntax error, unexpected 'deletephp' (T_STRING), expecting ';' or ',' in /home/axk7791/public_html/LMS-WDM/admin.php on line 352
+[28-Nov-2021 23:23:50 UTC] PHP Parse error:  syntax error, unexpected 'hidden' (T_STRING), expecting ';' or ',' in /home/axk7791/public_html/LMS-WDM/admin.php on line 436
+[28-Nov-2021 23:23:54 UTC] PHP Parse error:  syntax error, unexpected 'hidden' (T_STRING), expecting ';' or ',' in /home/axk7791/public_html/LMS-WDM/admin.php on line 436
+[28-Nov-2021 23:27:11 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting ';' or ',' in /home/axk7791/public_html/LMS-WDM/admin.php on line 436
+[29-Nov-2021 04:26:00 UTC] PHP Parse error:  syntax error, unexpected 'data' (T_STRING) in /home/axk7791/public_html/LMS-WDM/admin.php on line 125
+[29-Nov-2021 04:26:02 UTC] PHP Parse error:  syntax error, unexpected 'data' (T_STRING) in /home/axk7791/public_html/LMS-WDM/admin.php on line 125
+[29-Nov-2021 04:26:12 UTC] PHP Parse error:  syntax error, unexpected 'data' (T_STRING) in /home/axk7791/public_html/LMS-WDM/admin.php on line 125
+[29-Nov-2021 04:26:13 UTC] PHP Parse error:  syntax error, unexpected 'data' (T_STRING) in /home/axk7791/public_html/LMS-WDM/admin.php on line 125
+[29-Nov-2021 04:26:37 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/axk7791/public_html/LMS-WDM/admin.php on line 124
+[29-Nov-2021 04:26:38 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/axk7791/public_html/LMS-WDM/admin.php on line 124
+[29-Nov-2021 04:27:05 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/axk7791/public_html/LMS-WDM/admin.php on line 124
+[29-Nov-2021 04:27:06 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/axk7791/public_html/LMS-WDM/admin.php on line 124
+[29-Nov-2021 04:27:31 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/axk7791/public_html/LMS-WDM/admin.php on line 124
+[29-Nov-2021 04:28:29 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/axk7791/public_html/LMS-WDM/admin.php on line 124
+[29-Nov-2021 04:29:31 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/axk7791/public_html/LMS-WDM/admin.php on line 124
+[29-Nov-2021 04:30:10 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/axk7791/public_html/LMS-WDM/admin.php on line 128
+[29-Nov-2021 04:30:45 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/axk7791/public_html/LMS-WDM/admin.php on line 128
+[29-Nov-2021 04:32:47 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/axk7791/public_html/LMS-WDM/admin.php on line 130
+[29-Nov-2021 04:32:48 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/axk7791/public_html/LMS-WDM/admin.php on line 130
+[29-Nov-2021 04:34:27 UTC] PHP Parse error:  syntax error, unexpected 'hi' (T_STRING), expecting ';' or ',' in /home/axk7791/public_html/LMS-WDM/admin.php on line 124
+[29-Nov-2021 04:35:08 UTC] PHP Parse error:  syntax error, unexpected 'hi' (T_STRING), expecting ';' or ',' in /home/axk7791/public_html/LMS-WDM/admin.php on line 124
+[29-Nov-2021 04:35:36 UTC] PHP Parse error:  syntax error, unexpected 'hi' (T_STRING), expecting ';' or ',' in /home/axk7791/public_html/LMS-WDM/admin.php on line 124
+[29-Nov-2021 04:35:54 UTC] PHP Parse error:  syntax error, unexpected 'hi' (T_STRING), expecting ';' or ',' in /home/axk7791/public_html/LMS-WDM/admin.php on line 124
+[29-Nov-2021 04:41:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/axk7791/public_html/LMS-WDM/admin.php on line 564
